@@ -1,0 +1,9 @@
+#yml test
+myName: lidawei
+myname: lidawei2
+
+user:
+  name: zhangsan
+  age: 18
+  user-name: lisi
+  user_name2: lisi2
